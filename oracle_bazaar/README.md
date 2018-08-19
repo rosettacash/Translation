@@ -134,3 +134,11 @@ HASH160 = RIPEMD160(SHA256(data))
 ## 总结
 
 通过分散的预言机市场将现实世界事件与比特币脚本语言相结合，具有深远的影响。其他区块链（如以太坊）被吹捧的强大智能合约可以以确保代码中没有安全漏洞的方式提供给比特币。半信任的预言机将在未来发挥重要作用，并可能改变诸如保险，赌博，拍卖，衍生品，贷款等业务。许多商业机会将出现，例如为预言机建立声誉系统等等。
+
+## 引用
+
+- Codius white paper https://github.com/codius/codius/wiki/Smart-Oracles:-A-Simple,-Powerful-Approach-to-Smart-Contracts
+- Gavin Andresen’s blog on Bit-thereum http://gavintech.blogspot.com/2014/06/bit-thereum.html
+- Mike Hearn on Contracts https://en.bitcoin.it/wiki/Contract#Example_4:_Using_external_state
+- Similar to step 4 of Jonald Fyookball’s Chainbet proposal https://github.com/fyookball/ChainBet
+- Clemens Ley on Trustless exchange https://www.youtube.com/watch?v=M6j-11H2O7c&feature=youtu.be&t=172
